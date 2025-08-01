@@ -1,0 +1,11 @@
+.piedepagina {
+    display: flex;
+    justify-content: center;
+    background-color: var(--negro);
+}
+
+.piedepagina h2 {
+    font-weight: 400;
+    font-size: 18px;
+    color: var(--blanco);
+}

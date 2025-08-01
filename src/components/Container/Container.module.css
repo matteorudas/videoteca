@@ -1,0 +1,11 @@
+ .container section {
+    margin: 2em 20em;
+    text-align: center;
+ }
+
+ /* Media query para pantallas medianas */
+@media (max-width: 1200px) {
+    .container section {
+        margin: 2em 5em;
+    }
+}
